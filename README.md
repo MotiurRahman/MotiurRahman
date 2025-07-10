@@ -3,9 +3,9 @@
 ### Hi there 👋, my name is Motiur Rahman
 #### I am a Full Stack Web Developer
 
-I am a Developer having 9+ years of Web Apps and Web Apps development, design, and database experience. I have worked on various projects like eCommerce websites, blogs, data analysis, profile management, Mobile Apps, etc.
+I am an experienced IT Engineer with over 8 years of expertise in cross-platform mobile app development (Android/iOS using Appcelerator) and full-stack web development. My background includes working on diverse projects such as blogs, data analytics platforms, profile management systems, and mobile applications.
 
-I have hands-on experience in NodeJS, ReactJS, ExpressJS, PHP, CodeIgniter, Android, HTML5/CSS3/JavaScript, MySQL, and MongoDB.
+I have hands-on experience with a wide range of technologies including NestJS, NextJS, React, TypeScript, Swift, HTML5, CSS3, JavaScript, Node.js, Express.js, MySQL, MongoDB, iOS, Android, and the Titanium platform.
 
 My portfolio link- https://motiurinfo.vercel.app
 
