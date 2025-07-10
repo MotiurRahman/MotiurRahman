@@ -1,4 +1,4 @@
-![I am a Full Stack Web Developer](https://media.licdn.com/dms/image/D5616AQEc5lw4m_WvJQ/profile-displaybackgroundimage-shrink_350_1400/0/1670498080459?e=1680134400&v=beta&t=a_QNFS2IbrMZ6NnpbkBCjsDEYfmprTgDYfwb4HApJVA)
+![I am a Full Stack Web and Mobile Apps Developer](https://media.licdn.com/dms/image/D5616AQEc5lw4m_WvJQ/profile-displaybackgroundimage-shrink_350_1400/0/1670498080459?e=1680134400&v=beta&t=a_QNFS2IbrMZ6NnpbkBCjsDEYfmprTgDYfwb4HApJVA)
 
 ### Hi there 👋, my name is Motiur Rahman
 #### I am a Full Stack Web Developer
@@ -9,7 +9,7 @@ I have hands-on experience with a wide range of technologies including NestJS, N
 
 My portfolio link- https://motiurinfo.vercel.app
 
-Skills: JavaScript/ NodeJS/ ExpressJS/ PHP/ Codeigniter (3,4) / REACT / NextJS/ HTML / CSS / Bootstrap/ Tailwind
+Skills: iOS/ Android/ Titanium/ NextJS/ NestJS/ JavaScript /NodeJS/ ExpressJS/ PHP/ Codeigniter (3,4) / REACT / NextJS/ HTML / CSS / Bootstrap/ Tailwind
 
 - 🔭 I’m currently working on an iOS App. 
 - 💬 Ask me about Web Development/ Mobile Apps Development 
