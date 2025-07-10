@@ -7,7 +7,7 @@ I am a Developer having 9+ years of Web Apps and Web Apps development, design, a
 
 I have hands-on experience in NodeJS, ReactJS, ExpressJS, PHP, CodeIgniter, Android, HTML5/CSS3/JavaScript, MySQL, and MongoDB.
 
-My portfolio link- https://motiur-motiurrahman.vercel.app
+My portfolio link- https://motiurinfo.vercel.app
 
 Skills: JavaScript/ NodeJS/ ExpressJS/ PHP/ Codeigniter (3,4) / REACT / NextJS/ HTML / CSS / Bootstrap/ Tailwind
 
