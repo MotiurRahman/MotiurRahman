@@ -11,8 +11,7 @@ My portfolio link- https://motiurinfo.vercel.app
 
 Skills: JavaScript/ NodeJS/ ExpressJS/ PHP/ Codeigniter (3,4) / REACT / NextJS/ HTML / CSS / Bootstrap/ Tailwind
 
-- 🔭 I’m currently working on Agora Ltd. 
-- 🌱 I’m currently learning Redux 
+- 🔭 I’m currently working on an iOS App. 
 - 💬 Ask me about Web Development/ Mobile Apps Development 
 - 📫 How to reach me: +8801723306519 
 
