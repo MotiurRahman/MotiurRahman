@@ -3,15 +3,17 @@
 ### Hi there 👋, my name is Motiur Rahman
 #### I am a Full Stack Developer
 
-I am an experienced IT Engineer with over 8 years of expertise in cross-platform mobile app development (Android/iOS using Appcelerator) and full-stack web development. My background includes working on diverse projects such as blogs, data analytics platforms, profile management systems, and mobile applications.
+I am an experienced IT Engineer with over 10 years of expertise in Mobile app development (Android/iOS/Titanium) and full-stack web development. My background includes working on diverse projects such as blogs, data analytics platforms, profile management systems, and mobile applications.
 
-I have hands-on experience with a wide range of technologies including NestJS, NextJS, React, TypeScript, Swift, HTML5, CSS3, JavaScript, Node.js, Express.js, MySQL, MongoDB, iOS, Android, and the Titanium platform.
+I have hands-on experience with a wide range of technologies, including NestJS, NextJS, React, TypeScript, Swift, HTML5, CSS3, JavaScript, Node.js, Express.js, MySQL, MongoDB, iOS, Android, and the Titanium platform.
+
+My core strengths are iOS development and backend engineering with NestJS, where I combine deep technical expertise with a track record of building reliable, production-ready solutions.
 
 My portfolio link- https://motiurinfo.vercel.app
 
 Skills: iOS/ Android/ Titanium/ NextJS/ NestJS/ JavaScript /NodeJS/ ExpressJS/ PHP/ Codeigniter (3,4) / REACT / NextJS/ HTML / CSS / Bootstrap/ Tailwind
 
-- 🔭 I’m currently working on an iOS App. 
+- 🔭 I’m currently working on an iOS App and NestJS API. 
 - 💬 Ask me about Web Development/ Mobile Apps Development 
 - 📫 How to reach me: +8801723306519 
 
