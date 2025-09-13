@@ -1,4 +1,4 @@
-![I am a Full-Stack Developer (NestJS & iOS)](https://media.licdn.com/dms/image/D5616AQEc5lw4m_WvJQ/profile-displaybackgroundimage-shrink_350_1400/0/1670498080459?e=1680134400&v=beta&t=a_QNFS2IbrMZ6NnpbkBCjsDEYfmprTgDYfwb4HApJVA)
+![I am a Full-Stack Developer (NestJS & iOS)](https://drive.google.com/file/d/1nyMNx2dI8yBGE4gwF3tNC2WRmzvf-8MA/view)
 
 ### Hi there 👋, my name is Motiur Rahman
 #### I am a Full Stack Developer
